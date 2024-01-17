@@ -6,15 +6,17 @@ Bem-vindo ao meu portfólio no GitHub! Sou a Juliana, um entusiasta da tecnologi
 
 ## Projetos Destacados
 
-1. **[IgniteFeed](https://jleiite.github.io/IgniteFeed/)**
-   - Projeto de criação de feed com React simulando uma rede social, com inclusão e exclusão de comentários.
+1. **IgniteFeed**
+   - Projeto de criação de feed com React simulando uma rede social, com inclusão e exclusão de comentários. [Acessar página](https://jleiite.github.io/IgniteFeed/)
    - Tecnologias utilizadas:
+     
        ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
        ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-2. **[Estrela Guia]**
+2. **Estrela Guia**
    - Criação de uma interface envolvente e amigável para aprimorar a experiência do usuário em uma plataforma de atendimento ao cliente dedicada a consultas de astrologia.
    - Tecnologias utilizadas:
+     
        ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
        ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
